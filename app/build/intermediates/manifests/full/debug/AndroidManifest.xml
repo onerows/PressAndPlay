@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pressandplay"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.pressandplay.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.pressandplay.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.pressandplay.MAINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.pressandplay.Splash2"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.pressandplay.SPLASHSONG" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.pressandplay.SplashSong" >
+            <intent-filter>
+
+                <!-- We indicate that this activity start up as the initial activity(MAIN) -->
+                <!-- We have not named the activity explicity here -->
+                <action android:name="android.intent.action.MAIN" /> <!-- action android:name="com.example.pressandplay.SPLASH" / -->
+                <!-- Category: the kind of component that should handle the intent = LAUNCHER -->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

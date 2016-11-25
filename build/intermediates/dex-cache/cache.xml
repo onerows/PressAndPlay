@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0f7d9fe4c60e9aa34c9e0300704e5bba733a2f1d">
+        <dex dex="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_921cd5490aa0291bc6abea37c71fe6cab31bf0d9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thomaslysaght/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0-alpha1_384c918eb84ad8bc8e0942533bc6107a2fd16a1e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0-alpha1_66aed241566cc378d8f0bd1694544085426544f3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0-alpha1_9103fb317476d038bd76ccf88bbed79fcb8cbdc1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0-alpha1_d2f61af82580eb7e8c9f195dabe5a8094610a04c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="faf82900a58ab2612b3a45fcbccc70862609d18d">
+        <dex dex="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8883d1989aacdea4f210d02fc5002ce54d1594af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0-alpha1_bf7b98c4eb2a8f54250107f312c7261145ea2f44/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/thomaslysaght/AndroidStudioProjects/CS385/2016/PressAndPlay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0-alpha1_82b6509fc5382958ca53d6dd62537e66b9ba69ec/classes.dex" />
+    </item>
+
+</items>
