@@ -10,6 +10,8 @@ public class SplashSong extends Activity {
 
     MediaPlayer my_mediaPlayer;
 
+    //This is a comment for Github
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
